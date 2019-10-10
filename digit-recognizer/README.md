@@ -1,7 +1,7 @@
 # digit-recognizer
 # digit-recognizer
 This project is a digit recognizer made using support vector machine algorithm of machine learning.
-The image data created is made by myself only.
+I on my own created the image dataset.
 If you want you can also generate data by opening image generator in sublime or pycharm or any other platform and add more images.
 But while doing this you ave to make sure that you are saving images in the respective numerical folders.
 After the image data is created you have to convert it into csv form so run the file dataset generator.
