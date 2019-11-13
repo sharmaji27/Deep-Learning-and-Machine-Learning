@@ -1,3 +1,5 @@
+# DIGIT RECOGNIZER
+
 This project is a digit recognizer made using support vector machine algorithm of machine learning. 
 I on my own created the image dataset. 
 If you want you can also generate data by opening image gen.
