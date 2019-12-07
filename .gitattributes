@@ -1,3 +1,4 @@
 *cats[[:space:]]vs[[:space:]]dogs[[:space:]]classifier filter=lfs diff=lfs merge=lfs -text
 *.npz filter=lfs diff=lfs merge=lfs -text
 *.rar filter=lfs diff=lfs merge=lfs -text
+*venv filter=lfs diff=lfs merge=lfs -text
