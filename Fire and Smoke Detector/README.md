@@ -27,4 +27,4 @@ Training and loss curve
 
 Your Image dataset directory should look like this 
 
-![](output/s.png)
+![](s.png)
