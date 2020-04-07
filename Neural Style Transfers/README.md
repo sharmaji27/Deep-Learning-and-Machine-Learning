@@ -4,8 +4,8 @@ In Neural Style Transfers the art is generated using the STYLES like brush strok
 This project uses pretrained VGG16 model with imagenet weights.  
 The total loss in this case would be the sum of content loss and style loss and we try to minimize it.  
 
-CONTENT IMAGE  
+CONTENT IMAGE..  
 ![](images/eiffel.jpg)
 
-STYLE IMAGE
+STYLE IMAGE..  
 ![](images/thescream.jpg)
