@@ -5,4 +5,4 @@ This project uses pretrained VGG16 model with imagenet weights.
 The total loss in this case would be the sum of content loss and style loss and we try to minimize it.  
 
 CONTENT IMAGE  
-[]!('images/eiffel.jpg')
+![](images/eiffel.jpg)
