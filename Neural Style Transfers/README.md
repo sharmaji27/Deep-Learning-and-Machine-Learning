@@ -6,3 +6,6 @@ The total loss in this case would be the sum of content loss and style loss and 
 
 CONTENT IMAGE  
 ![](images/eiffel.jpg)
+
+STYLE IMAGE
+![](images/thescream.jpg)
